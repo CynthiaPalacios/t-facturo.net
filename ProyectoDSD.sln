@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPServices", "SOAPServices\SOAPServices.csproj", "{D17758F2-2392-470D-959B-A730EEC84CB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{7E683DE2-DF5A-4C2B-9929-A9A2FDA634EF}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Iesi.Collections.dll = Librerias\Iesi.Collections.dll
+		Librerias\NHibernate.dll = Librerias\NHibernate.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17758F2-2392-470D-959B-A730EEC84CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17758F2-2392-470D-959B-A730EEC84CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17758F2-2392-470D-959B-A730EEC84CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17758F2-2392-470D-959B-A730EEC84CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
